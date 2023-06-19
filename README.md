@@ -1,2 +1,2 @@
 # Kaggle-Learn-Advanced-SQL
-exercises on advanced SQL
+4 exercises on advanced SQL
